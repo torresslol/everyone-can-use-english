@@ -65,3 +65,9 @@
 * 2010 年冬于北京修改
 * 2015 年于北京重新制作网络开放版本
 * 2019 年于北京上传至 Github
+
+---
+
+### 技术优化
+
+* **2025-02-26 Image Optimization**: Optimized large images (>100KB) in `images/` directory using lossless compression, reducing repository size by ~2MB (~66% reduction for targeted files) for faster loading.

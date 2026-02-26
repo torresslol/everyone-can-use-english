@@ -70,4 +70,4 @@
 
 ### 技术优化
 
-* **2025-02-26 Image Optimization**: Optimized large images (>100KB) in `images/` directory using lossless compression, reducing repository size by ~2MB (~66% reduction for targeted files) for faster loading.
+* **2025-02-26 Image Optimization**: Optimized large images (>100KB) in `images/` directory using safe compression methods (MozJPEG/Palette-less PNG), reducing repository size by ~250KB for faster loading.

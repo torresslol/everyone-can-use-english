@@ -183,7 +183,7 @@ Anna Gislen 让一群欧洲孩子在八个月内就学会了像海洋吉普赛�
 3. 甚至它还会重新组织自己（Reorganizing），通过恰当的训练，它能用另外一个区域习得已被毁坏区域的能力……
 
 只不过，这个证明过程格外地不顺利。
-请读者猜猜下图中，这个正在[美国UAB康复中心]( https://www.uabhealth.org)治疗的小女孩受伤的是左臂还是右臂？
+请读者猜猜下图中，这个正在[美国UAB康复中心](https://www.uabhealth.org)治疗的小女孩受伤的是左臂还是右臂？
 
 ![Child undergoing Constraint-Induced Movement Therapy with uninjured arm restrained](images/figure05.png)
 

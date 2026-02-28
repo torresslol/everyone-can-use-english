@@ -45,7 +45,7 @@
 
 ### 口语
 * 第一部分，准备了九十多道真题，一个英语很好的朋友帮我写的。第二部分，准备了十个左右话题。第三部分，背了经典的句型若干。
-* 对照[这个网站](https://www.uiowa.edu/~acadtech/phonetics/english/frameset.html)对着镜子模仿口型和发音。每天半小时，1 个月时间。
+* 对照[这个网站](http://www.uiowa.edu/~acadtech/phonetics/english/frameset.html)对着镜子模仿口型和发音。每天半小时，1 个月时间。
 其他
 * 想明白系列，反复看了若干遍。
 

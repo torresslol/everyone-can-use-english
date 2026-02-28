@@ -43,7 +43,7 @@
 
 ## 2. 无论如何都要学语法
 
-于 1953 年获得诺贝尔文学奖的英国首相[Winston Churchill](http://www.winstonchurchill.org/)曾如此描述他儿时的这种语言训练对他来讲究竟有多么重要：
+于 1953 年获得诺贝尔文学奖的英国首相[Winston Churchill](https://www.winstonchurchill.org/)曾如此描述他儿时的这种语言训练对他来讲究竟有多么重要：
 
 > By being so long in the lowest form I gained an immense advantage over the cleverer boys. They all went on to learn Latin and Greek and splendid things like that. But I was taught English. We were considered such dunces that we could learn only English. Mr. Somervell — a most delightful man, to whom my debt is great — was charged with the duty of teaching the stupidest boys the most disregarded thing–namely, to write mere English. He knew how to do it. He taught it as no one else has ever taught it. Not only did we learn English parsing thoroughly, but we also practised continually English analysis. Mr. Somervell had a system of his own. He took a fairly long sentence and broke it up into its components by means of black, red, blue, and green inks. Subject, verb, object: Relative Clauses, Conditional Clauses, Conjunctive and Disjunctive Clauses! Each had its colour and its bracket. It was a kind of drill. We did it almost daily. As I remained in the Third Form three times as long as anyone else, I had three times as much of it. I learned it thoroughly. Thus I got into my bones the essential structure of the ordinary British sentence — which is a noble thing. And when in after years my schoolfellows who had won prizes and distinction for writing such beautiful Latin poetry and pithy Greek epigrams had to come down again to common English, to earn their living or make their way, I did not feel myself at any disadvantage. Naturally I am biased in favor of boys learning English. I would make them all learn English: and then I would let the clever ones learn Latin as an honour, and Greek as a treat. But the only thing I would whip them for is not knowing English, I would whip them hard for that.
 
@@ -61,7 +61,7 @@
 
 ![](images/figure54.png)
 
-– image from [American Treasures of the Library of Congress](http://www.loc.gov/exhibits/treasures/trr132.html)
+– image from [American Treasures of the Library of Congress](https://www.loc.gov/exhibits/treasures/trr132.html)
 
 而林肯也发现很多人的思维混乱和语法欠佳有着紧密的联系：
 

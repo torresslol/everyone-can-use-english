@@ -157,15 +157,15 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 英语不过是一种文字，这一点上来看，它并不比其它的文字更好、更高级、更优美。自认为自己的母语是全天下最美的语言，是最为幼稚的想法（都懒得加上之一）。印象中第一次意识到这种幼稚的存在，是读中学的时候，语文课本里有篇文章叫《最后一课》，作者都德激情地写道，“法语是世界上最美的语言！” 而在另外一个国度（这个国度里所使用的语言是地球上使用者最多的语言：汉语），（中文）语文老师激动地（某种意义上也避重就轻地）讲述着作者都德的爱国热情，一遍一遍地复述着都德那个狭隘民族主义的弱智句子 “法语是世界上最美的语言！” —— 有比这个更为荒唐的场景么？（当然，都德在那个特殊的时代拥有这种（狭隘）民主主义情绪，从另外一个意义上来说更可能应该被理解为 “英雄的”……）
 
-任何语言文字都有它自己固有的独特之处，都有它独特美丽的根源。然而最终，语言文字是用来表述、记录、交流思想的。如果有什么真正美丽或者更加美丽的话，是思想，而不是语言文字本身。美丽的思想，用任何语言表达都美丽，用一种语言表达光芒四射，用另外一种语言表达四射光芒。电影[V for Vendetta](http://en.wikipedia.org/wiki/V_for_Vendetta_(film))中，主角 V 身中无数枪却不死，缓步逼近 Creedy，而 Creedy 的手枪里已经没有了子弹，于是绝望地大喊，“Why won't you die?!” V 淡然地说，“Beneath this mask there is more than flesh. Beneath this mask there is an idea, Mr. Creedy. And ideas are bulletproof.”
+任何语言文字都有它自己固有的独特之处，都有它独特美丽的根源。然而最终，语言文字是用来表述、记录、交流思想的。如果有什么真正美丽或者更加美丽的话，是思想，而不是语言文字本身。美丽的思想，用任何语言表达都美丽，用一种语言表达光芒四射，用另外一种语言表达四射光芒。电影[V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta_(film))中，主角 V 身中无数枪却不死，缓步逼近 Creedy，而 Creedy 的手枪里已经没有了子弹，于是绝望地大喊，“Why won't you die?!” V 淡然地说，“Beneath this mask there is more than flesh. Beneath this mask there is an idea, Mr. Creedy. And ideas are bulletproof.”
 
-印象里第一次深刻体会到多懂一门语言的好处，是终于读到[Animal Farm](http://en.wikipedia.org/wiki/Animal_Farm)这本书的时候。这本书在国内许多年前曾经是禁书。经常可以在一些牛人的文章里看到这本书被提及，我却遍寻不得之，极为痛苦。终于有一天，搞到一本 Animal Farm 的英法对照本，于是一口气读完。当时的我当然看不懂法文了，而英文要靠不停地查词典才可以。那所谓的 “一口气” 大约是两个星期 —— 那书其实只不过是薄薄的一个小册子而已。Animal Farm 被誉为 20 世纪最伟大的小说之一。作者乔治•奥威尔（[Geroge Orwell](http://en.wikipedia.org/wiki/George_Orwell)）用他不留情的笔触讲了个让人毛骨悚然的寓言故事。
+印象里第一次深刻体会到多懂一门语言的好处，是终于读到[Animal Farm](https://en.wikipedia.org/wiki/Animal_Farm)这本书的时候。这本书在国内许多年前曾经是禁书。经常可以在一些牛人的文章里看到这本书被提及，我却遍寻不得之，极为痛苦。终于有一天，搞到一本 Animal Farm 的英法对照本，于是一口气读完。当时的我当然看不懂法文了，而英文要靠不停地查词典才可以。那所谓的 “一口气” 大约是两个星期 —— 那书其实只不过是薄薄的一个小册子而已。Animal Farm 被誉为 20 世纪最伟大的小说之一。作者乔治•奥威尔（[Geroge Orwell](https://en.wikipedia.org/wiki/George_Orwell)）用他不留情的笔触讲了个让人毛骨悚然的寓言故事。
 
 > 在英格兰有这么一个农场。农场的主人常常酗酒，也不懂得善待农场里的动物们。有一天，主人不在，有一头老猪把大伙召集到谷仓里开了个会。就看它颤颤巍巍爬上台，对台下的动物们说，“I had a dream……”还没讲完，农场主就回来了，动物们吓得赶紧散会。第二天，老猪就去世了。可是那天老猪的讲演却深刻而又顽固地留在动物们的脑海里，尽管大多数的动物并不是很懂老猪说的究竟是什么……后来有一天，有两头猪（猪是所有动物里智商最高的），一头叫Snowball，另外一头叫Napoleon，带着大伙起义了，把农场主赶了出去，占领了农场，建立了Animal Republic…农场里还有很多其它动物，比如，无论谁说什么都点头称是的鸭子们，无私奉献自己的蛋的鸡们，充当警察角色的狗们，一匹为首是瞻兢兢业业的低智商的马Boxer，一个只喜欢花丝带的小母马Mollie，一头什么都看不上愤世嫉俗的老驴Benjamin，还有一只说话不中听的乌鸦 Moses……Animal Republic有七戒，最后一条是“All animals are equal.”
 
 这本书读过很久之后的某一天，我突然意识到，多懂一门语言就相当于多出了一片天空。英语对我来说，不再是要 “学” 那么简单了，而是要用它获得自由，哪怕仅仅是精神上的自由 —— 再说还有什么比精神上的自由更为宝贵的东西呢？
 
-从某种意义上，我一直感激那个把 Animal Farm 禁掉的那个人（或 “那些” 我永远也不会知道是谁的人），如若他（们）未曾设置那样一道貌似不可逾越的障碍，我可能永远不会有这种特殊的体会。再后来，有一天听[Randy Pausch](http://en.wikipedia.org/wiki/Randy_Pausch)博士在他的 “The Last Lecture” 中说 “The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something…” —— 瞬间，热泪盈眶。
+从某种意义上，我一直感激那个把 Animal Farm 禁掉的那个人（或 “那些” 我永远也不会知道是谁的人），如若他（们）未曾设置那样一道貌似不可逾越的障碍，我可能永远不会有这种特殊的体会。再后来，有一天听[Randy Pausch](https://en.wikipedia.org/wiki/Randy_Pausch)博士在他的 “The Last Lecture” 中说 “The brick walls are there for a reason. They're not there to keep us out. The brick walls are there to give us a chance to show how badly we want something…” —— 瞬间，热泪盈眶。
 
 ## 8. 只有人类才善于阅读
 
@@ -199,9 +199,9 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 史书上常说清代的周永年（1730~1791）出身寒微。我觉得不然。此人爱书心切，见书必得，这不是穷人能养出来的习惯。史书中又说此人仕宦清苦，这颇为可信，因为他为了买书甚至不惜典当御寒衣物。周永年运气足够好，四十一岁终于中了进士，两年之后又晋升为翰林院庶吉士，再后来来有机会协助纪昀编纂《四库全书》，可算是尽管终生不曾得大富大贵，却从未断过精神食粮……
 
-十七世纪末、十八世纪初的时候，法国有位哲学家，[Pierre Daniel Huet](http://en.wikipedia.org/wiki/Pierre_Daniel_Huet)，被认为是那个时代最为博学（erudite）的人。据说他为了不浪费时间，给自己配了个识字的仆人，随时带着书跟着他，一旦他闲下来的时候 —— 比如吃饭、如厕，或者在谁谁的客厅里等人的时候 —— 就读书给他听（我猜这位仆人也比大多数人博学）；而绝大多数人在大约两百年之后才有机会、有支付能力购买可以随身携带的 mp3 播放器用来随时听买来的 audiobook……于是他在二十岁的时候，就已经被认为是那个时代里最有前途的学者。
+十七世纪末、十八世纪初的时候，法国有位哲学家，[Pierre Daniel Huet](https://en.wikipedia.org/wiki/Pierre_Daniel_Huet)，被认为是那个时代最为博学（erudite）的人。据说他为了不浪费时间，给自己配了个识字的仆人，随时带着书跟着他，一旦他闲下来的时候 —— 比如吃饭、如厕，或者在谁谁的客厅里等人的时候 —— 就读书给他听（我猜这位仆人也比大多数人博学）；而绝大多数人在大约两百年之后才有机会、有支付能力购买可以随身携带的 mp3 播放器用来随时听买来的 audiobook……于是他在二十岁的时候，就已经被认为是那个时代里最有前途的学者。
 
-[Umberto Eco](http://en.wikipedia.org/wiki/Umberto_Eco)教授，一位意大利学者，也许是当今世界最博学的人之一（对了，他还是 007 邦德的粉丝）。他最有形有款的事情是他拥有一个藏书多达三万册的私人图书馆 —— 以他的渊博，选书也肯定一流，所以那可是三万本精品呢。他最看不起问他 “哇！Umberto Eco，这么多的书里你究竟读过多少本？” 的人 —— 因为，他认为藏书并非为了显摆自己的身份，并且，更深刻的是，他认为没读过的书要比读过的书更加重要，更具不可估量的价值。
+[Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco)教授，一位意大利学者，也许是当今世界最博学的人之一（对了，他还是 007 邦德的粉丝）。他最有形有款的事情是他拥有一个藏书多达三万册的私人图书馆 —— 以他的渊博，选书也肯定一流，所以那可是三万本精品呢。他最看不起问他 “哇！Umberto Eco，这么多的书里你究竟读过多少本？” 的人 —— 因为，他认为藏书并非为了显摆自己的身份，并且，更深刻的是，他认为没读过的书要比读过的书更加重要，更具不可估量的价值。
 
 对于绝大多数人来讲，读书本质上来看是很奢侈的爱好，如果考虑时间精力成本的话，读书比吸毒昂贵多了 —— 另外一方面，吸毒会严重缩短寿命，而读书基本上不会有这样的副作用，于是，读书的累计成本无疑要比吸毒高出不只一个量级 。不妨想象一下仅仅这三万册书本身的总价就不会低于 100 万美元……
 
@@ -255,7 +255,7 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 ### 1. 在 Google 上直接搜索书名或者作者名。
 
-有些作者可能会直接提供全文下载。比如，诺贝尔经济学奖得主米尔顿弗里德曼（Milton Friedman）的 “[Free to Choose](http://www.freetochoose.net/)” 不仅有文本，还有 PBS 为其制作的 15 集视频。《自私的基因》的作者；理查德道金斯（Richard Dawkins）的个人网站上提供他的大部分著作的下载。
+有些作者可能会直接提供全文下载。比如，诺贝尔经济学奖得主米尔顿弗里德曼（Milton Friedman）的 “[Free to Choose](https://www.freetochoose.net/)” 不仅有文本，还有 PBS 为其制作的 15 集视频。《自私的基因》的作者；理查德道金斯（Richard Dawkins）的个人网站上提供他的大部分著作的下载。
 
 ### 2. 在 Google 搜索里指定文件格式
 
@@ -269,11 +269,11 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 ### 3. 到 Google Books 上看看有没有可以直接浏览的版本
 
-Google Books 做的非常好，访问地址是http://books.google.com/。很多书籍都可以直接在线阅读；就算没有“Preview”的书籍，也提供检索功能。
+Google Books 做的非常好，访问地址是https://books.google.com/。很多书籍都可以直接在线阅读；就算没有“Preview”的书籍，也提供检索功能。
 
 ### 4. 干脆自定义一个专门的搜索引擎
 
-Google 的自定义搜索引擎（[Google CSE](http://www.google.com/cse/)）功能非常强大。我专门做了一个搜索电子书的 CSE，在这个页面上可以找到：https://cse.google.com/cse?cx=017195234153172777936:b1hykrzesai
+Google 的自定义搜索引擎（[Google CSE](https://www.google.com/cse/)）功能非常强大。我专门做了一个搜索电子书的 CSE，在这个页面上可以找到：https://cse.google.com/cse?cx=017195234153172777936:b1hykrzesai
 
 ### 5. 到 WikiPedia 上搜索一下作者和书名
 

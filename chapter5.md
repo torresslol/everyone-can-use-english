@@ -28,7 +28,7 @@
  
 > It was attempting to suggest that every disease and condition for which there had been no previous effective treatments might be responsive to vitamin therapies. 
  
-事实上，ETS 从来不自己创作文章，这句话是 Child Psychiatry and Human Development 杂志 1998 年第 3 期[，Orthomolecular therapy: Its history and applicability to psychiatric disorders](http://www.springerlink.com/index/U084338376776778.pdf)中的一段话。设计 SAT 考试的 Colledge Board 也是如此，SAT 考试中的阅读文章几乎篇篇都可以在互联网上找到原文。 
+事实上，ETS 从来不自己创作文章，这句话是 Child Psychiatry and Human Development 杂志 1998 年第 3 期[，Orthomolecular therapy: Its history and applicability to psychiatric disorders](https://www.springerlink.com/index/U084338376776778.pdf)中的一段话。设计 SAT 考试的 Colledge Board 也是如此，SAT 考试中的阅读文章几乎篇篇都可以在互联网上找到原文。
  
 也许读者会去词典里查 “attempting”、“responsive”、或者 “therapy” 是什么意思，但我见过的学生中几乎就没有人去查 “condition” 在这句话里究竟应该是什么意思。他们之所以没有想到去查 “condition”，是因为他们 “认识” 这个词，“condition：n. 条件、情况”。然而，就算除了 “condition” 之外的所有词汇都认识、并且每一个词在当前句子中的确切含义都完全了解的情况下，这句话如此理解难道就不觉得别扭么？ 
  
@@ -38,13 +38,13 @@
  
 还有个特别经典的例子是在中文互联网上能搜索出几千个[搜索结果](https://www.google.com/search?q=%E7%83%99%E7%89%9B%E8%82%89%E9%A5%BC%E5%B9%B6%E4%B8%8D%E6%8D%9F%E5%AE%B3%E4%BD%A0%E7%9A%84%E5%B0%8A%E4%B8%A5)的译文：“烙牛肉饼并不损害你的尊严”。这句话的原文是：“Flipping burgers is not beneath your dignity. Your grandparents had a different word for burger flipping; they called it opportunity.” 我很不理解这句话的译者以及转载这篇文章的几千个人，难道他们看不出这句话这样理解狗屁不通么？事实上，很多人真的如此，他们只顾输入不顾处理，甚至并不知道自己全然没有处理 —— 他们阅读（甚至读不全）却不去尝试着理解，所以就没理解，于是甚至不知道自己并没有理解。
  
-查查词典就知道了，“[flip burgers](http://idioms.thefreedictionary.com/flip+burgers)” 是个短语，意思是 “to do work that does not pay well, esp. at a cheap restaurant. Instead of playing baseball, the boys might be flipping burgers and earning a little cash.”。于是，那句话应该这样理解（或翻译）：“所做的工作薪水低一点并不有损你的尊严。你的祖父母对这样的工作可有不同的定义；他们称它为机遇。” 
+查查词典就知道了，“[flip burgers](https://idioms.thefreedictionary.com/flip+burgers)” 是个短语，意思是 “to do work that does not pay well, esp. at a cheap restaurant. Instead of playing baseball, the boys might be flipping burgers and earning a little cash.”。于是，那句话应该这样理解（或翻译）：“所做的工作薪水低一点并不有损你的尊严。你的祖父母对这样的工作可有不同的定义；他们称它为机遇。”
  
 望文生义是最大的阅读理解障碍，甚至可以算作是一种总有一天会变成 “disease” 的 “condition”。望文生义的根源第一个是懒，第二个是自以为是，第三个是既懒又自以为是而产生、又恰恰因为既懒又自以为是而难以克服的自我局限。 
  
-类似的例子特别多。“journeyman” 这个单词，在中文世界里就被无数次望文生义。好多年前，有个著名的角色扮演游戏，叫做 “Journeyman”，被翻译成 “游侠”。Eric Clapton（就是唱 “tears in heaven” 那哥们）的专辑《Journeyman》曾被国内唱片公司翻译成 “跋涉者” —— 因为译者以为 “journeyman” 是 “走路的人”，又因为那两年 Eric Clapton 的经历坎坷，所以，译者很有文采地采用了 “跋涉” 而不是 “旅行”。其实，“journeyman” 的意思是 “学徒期满的职工, 熟练工人”。有一个 20 世纪福克斯拍摄的剧集 “[Journeyman (2007)](http://www.imdb.com/title/tt0948538)” 被译作 “时间旅者” 勉强凑合，因为故事是讲时间旅行的，但是也不太算太恰当 —— 因为其实那剧集的名字是个双关，“journeyman” 的另外一个意思是 “熟手：有经历、有能力但很普通的工人”，暗指主人公很有能力。 
+类似的例子特别多。“journeyman” 这个单词，在中文世界里就被无数次望文生义。好多年前，有个著名的角色扮演游戏，叫做 “Journeyman”，被翻译成 “游侠”。Eric Clapton（就是唱 “tears in heaven” 那哥们）的专辑《Journeyman》曾被国内唱片公司翻译成 “跋涉者” —— 因为译者以为 “journeyman” 是 “走路的人”，又因为那两年 Eric Clapton 的经历坎坷，所以，译者很有文采地采用了 “跋涉” 而不是 “旅行”。其实，“journeyman” 的意思是 “学徒期满的职工, 熟练工人”。有一个 20 世纪福克斯拍摄的剧集 “[Journeyman (2007)](https://www.imdb.com/title/tt0948538)” 被译作 “时间旅者” 勉强凑合，因为故事是讲时间旅行的，但是也不太算太恰当 —— 因为其实那剧集的名字是个双关，“journeyman” 的另外一个意思是 “熟手：有经历、有能力但很普通的工人”，暗指主人公很有能力。
  
-2008 年还有个互联网上传看得比较多的一个片子叫叫《[Man from Earth (2007)](http://www.imdb.com/title/tt0756683/)》，被中译为《这个男人来自地球》。这也是不查词典带来的结果。“Earth” 要是表示 “地球” 的意思，前面应该有一个定冠词 “the” 才对，所以，这里的 “earth” 肯定不是指 “地球”，那是什么呢？查查词典就知道，“earth” 还有一个意思是 “洞、穴”。根据剧情来看，“Man from Earth” 大致应该等同于 “Cave Man”。至于应该翻译成什么，无所谓，反正，不应该是 “这个男人来自地球” 
+2008 年还有个互联网上传看得比较多的一个片子叫叫《[Man from Earth (2007)](https://www.imdb.com/title/tt0756683/)》，被中译为《这个男人来自地球》。这也是不查词典带来的结果。“Earth” 要是表示 “地球” 的意思，前面应该有一个定冠词 “the” 才对，所以，这里的 “earth” 肯定不是指 “地球”，那是什么呢？查查词典就知道，“earth” 还有一个意思是 “洞、穴”。根据剧情来看，“Man from Earth” 大致应该等同于 “Cave Man”。至于应该翻译成什么，无所谓，反正，不应该是 “这个男人来自地球”
  
 在其他领域里，生活也好、学习也罢，想要超凡脱俗真的不是很容易。然而在学英语这件事上，只要肯拿起词典，而后在偶尔的情况下动动脑筋，发现问题并解决问题，就可以做到 “超凡脱俗” —— 唉，到哪里再找这样的好事儿呢？ 
  
@@ -154,7 +154,7 @@ MS Word 从 2007 版本开始内嵌了 “鼠标取词” 功能。其所采用�
 
 另，MS Word 中的这个 “英语助手”，是必须联网才能使用的，因为它实际上是在查询微软的服务器之后再返回查询结果。服务查询地址是：
 
-> http://office.microsoft.com/Research/query.asmx
+> https://office.microsoft.com/Research/query.asmx
 
 有编程能力的读者，不妨看看其中的 “Basci Query Option”……
 
@@ -166,7 +166,7 @@ MS Word 从 2007 版本开始内嵌了 “鼠标取词” 功能。其所采用�
 
 ![](images/figure27.png) 
 
-而后在底部 “地址(A)” 之后的文字输入框里输入：“http://office.microsoft.com/Research/query.asmx”而后按“添加”按钮： 
+而后在底部 “地址(A)” 之后的文字输入框里输入：“https://office.microsoft.com/Research/query.asmx”而后按“添加”按钮：
 
 ![](images/figure272.png) 
 
@@ -397,7 +397,7 @@ Advanced Searches 内还可以使用 “与(AND)、或(OR)、非(NOT)” 构建�
  
 ![](images/figure43.png) 
  
-所谓的 “WordBank” 就是柯林斯(Collins)的例句语料库，该词典中包含了这个语料库中含有 50 亿词的有效部分。在柯林斯的网站上，还有这个语料库的一个[在线查询工具](http://www.collins.co.uk/Corpus/CorpusSearch.aspx)——只不过对大多数非专业人士来说，这个工具没什么太大的用处。 
+所谓的 “WordBank” 就是柯林斯(Collins)的例句语料库，该词典中包含了这个语料库中含有 50 亿词的有效部分。在柯林斯的网站上，还有这个语料库的一个[在线查询工具](https://www.collins.co.uk/Corpus/CorpusSearch.aspx)——只不过对大多数非专业人士来说，这个工具没什么太大的用处。
  
 最好玩的是柯林斯(Collins)第三版中有个未开放的内容，Collins Cobuild English Grammar 的全文电子版。这本书的中译本由商务印书馆出版发行；也是我最推崇的语法书之一。（发现这个功能纯属偶然，是某次敲错了键盘却最终找到了宝。） 
  
@@ -428,7 +428,7 @@ Oxford Collocation Dictionary for Students of English 是一本具有划时代�
 
 ## 9. WordNet 和 WordWeb 
  
-[WordNet](http://en.wikipedia.org/wiki/WordNet)，是普林斯顿大学的心理学教授乔治•米勒(George A. Miller)于 1985 年开始领导开发维护的一套英语词汇数据库（English lexical database)。截至 2006 年，WordNet 数据库中大小已经超过 12M，包括 15 万词，总计 11.5 万个同义集合，含有 20.7 万个词义条目。这个数据库里的词主要分为四种：名词（nouns）、动词（verbs）、形容词（adjectives）、和副词（adverbs）。数据库的主要结构是以词义（而非以词汇本身为线索）为线索的关系数据库。 
+[WordNet](https://en.wikipedia.org/wiki/WordNet)，是普林斯顿大学的心理学教授乔治•米勒(George A. Miller)于 1985 年开始领导开发维护的一套英语词汇数据库（English lexical database)。截至 2006 年，WordNet 数据库中大小已经超过 12M，包括 15 万词，总计 11.5 万个同义集合，含有 20.7 万个词义条目。这个数据库里的词主要分为四种：名词（nouns）、动词（verbs）、形容词（adjectives）、和副词（adverbs）。数据库的主要结构是以词义（而非以词汇本身为线索）为线索的关系数据库。
 
 1985 年这个项目刚刚启动的时候，获得了 300 万美元的资助。米勒教授后来的职业生涯大多都与 WordNet 有关。1998 年前后，布朗大学（Brown University）的一群教授和学生，用 WordNet 创建了一个 “disambiguator”（用来消除语义分析使所遇到的模棱两可的情况）。以 Jeff Stibel 为首的这群人聘用米勒教授作为董事会顾问，创建了 Simpli 搜索引擎。2000 年，Simpli 被 NetZero 公司以 2350 万美元的价格收购。2003 年，另外一家基于 WordNet 技术而创建的公司 Applied Semantics（这家公司 1998 年的时候叫做 “Oingo”）被 Google 以 1 亿零 200 万美元的价格收购。而后 Google 就拥有了今天它赖以生存的 AdSence 广告业务……
 
@@ -454,7 +454,7 @@ Oxford Collocation Dictionary for Students of English 是一本具有划时代�
 
 对于英语学习者来说，这个数据库并不是很容易直观理解。因为它不是传统意义上的 “词典”（dictionary），也非传统意义上的 “辞典”（Thesaurus），准确地来说，原本是为了英语自动语义识别而打造的一个巨型词义关联数据库。 
  
-网上还能找到一个操作界面非常酷、非常炫的 “[Thinkmap® Visual Thesaurus](http://www.visualthesaurus.com/)”，也是基于 WordNet 数据库的。 
+网上还能找到一个操作界面非常酷、非常炫的 “[Thinkmap® Visual Thesaurus](https://www.visualthesaurus.com/)”，也是基于 WordNet 数据库的。
 
 ![](images/figure48.png)  
  
@@ -462,7 +462,7 @@ Oxford Collocation Dictionary for Students of English 是一本具有划时代�
 
 ## 10. 词汇量不是问题，概念量才是瓶颈 
 
-总有一天，学生会发现 “词汇量” 实在是最为初级的东西。读文章读不懂的时候，其实更大的障碍是 “概念量”。不知道什么叫做 “double blind test”（“双盲测试”）的人，并不是因为 double、blind、test 这三个词不认识，而是因为不了解这概念究竟指的是什么 —— 当然，一本书里介绍这个概念的章节可能要超过几千字，即，要读懂那几千字之后才能彻底明白 “double blind test” 究竟是什么东西，为什么要依赖它，依赖它的时候又有什么样的限制，等等。再比如说，当一位读者在阅读过程中读到 “[unintended consequences](http://en.wikipedia.org/wiki/Unintended_consequence)” 的时候，如果他不知道这个概念的来历、意味以及在现实生活中、学术界中常常被因之而提及的事例，那么这位读者就不一定会因为他认识 “unintended”、也认识 “consequences” 而必然彻底理解文本的含义。 
+总有一天，学生会发现 “词汇量” 实在是最为初级的东西。读文章读不懂的时候，其实更大的障碍是 “概念量”。不知道什么叫做 “double blind test”（“双盲测试”）的人，并不是因为 double、blind、test 这三个词不认识，而是因为不了解这概念究竟指的是什么 —— 当然，一本书里介绍这个概念的章节可能要超过几千字，即，要读懂那几千字之后才能彻底明白 “double blind test” 究竟是什么东西，为什么要依赖它，依赖它的时候又有什么样的限制，等等。再比如说，当一位读者在阅读过程中读到 “[unintended consequences](https://en.wikipedia.org/wiki/Unintended_consequence)” 的时候，如果他不知道这个概念的来历、意味以及在现实生活中、学术界中常常被因之而提及的事例，那么这位读者就不一定会因为他认识 “unintended”、也认识 “consequences” 而必然彻底理解文本的含义。
  
 高级思维活动依赖概念（而非词汇本身）的理解、组织、扩展、应用、重新理解、重新组织、进一步扩展和进一步运用。词汇量等同的人之间概念量却可能存在巨大的差异。不仅概念量有差异，每个人对每一个概念的理解程度也同样存在着各式各样的差异。人与人之间概念量差异大到一定程度之时，哪怕在使用同一种语言的情况下都全然无法沟通 —— 父母与孩子之间、老师与学生之间、作者于读者之间、领导与下属之间、南方人与北方人之间、学者与公众之间都可能如此。 
  
@@ -486,7 +486,7 @@ Oxford Collocation Dictionary for Students of English 是一本具有划时代�
 
 好像扯远了，其实并不是。这也不是有意耸人听闻，而是再清楚不过的事实。清楚地理解每一个遇到过的概念（管它是中文还是英文），是最为省时间高效率的生活方式。注意，这个习惯不仅仅影响学习，而事实上，它会影响一个人的整个生命过程。因为人毕竟是必须依赖思考才能做出决定的动物。而每一次决定、每一次判断，都依赖对过往存储在自己脑中的各种各样之间关系错综复杂的概念的有效处理。 
  
-所以，我常常告诫学生应该经常查询百科，因为它是普通人用来构建概念体系的最基础工具。遇到任何不太了解的概念就到百科上查一查，而后做点笔记，是一生的好习惯。我推荐给学生使用的只有一个，就是[Wikipedia](http://en.wikipedia.org)。
+所以，我常常告诫学生应该经常查询百科，因为它是普通人用来构建概念体系的最基础工具。遇到任何不太了解的概念就到百科上查一查，而后做点笔记，是一生的好习惯。我推荐给学生使用的只有一个，就是[Wikipedia](https://en.wikipedia.org)。
 
 经常有人对维基百科的权威性抱有顾虑；实际上，2005 年的时候，全球最权威的科学期刊《自然》杂志把 Wikipedia 与《大不列颠百科》的内容精心了一番测试对比，考察了上百个指标，最终得出的结论是双方内容的准确度旗鼓相当；在某些方面 Wikipedia 甚至更胜一筹。
 
@@ -531,7 +531,7 @@ Oxford Collocation Dictionary for Students of English 是一本具有划时代�
  
 > **hooligan**: [俚]阿飞, 无赖, 小流氓 
  
-如果不甘心，想知道 hooligan 究竟什么来历，[那就不妨wikipedia一下好了](http://en.wikipedia.org/wiki/Hooliganism)： 
+如果不甘心，想知道 hooligan 究竟什么来历，[那就不妨wikipedia一下好了](https://en.wikipedia.org/wiki/Hooliganism)：
 > *Etymology* 
  
 > There are several theories about the origin of the word hooliganism. The Compact Oxford English Dictionary states that word may originate from the surname of a fictional rowdy Irish family in a music hall song of the 1890s. Clarence Rooks, in his 1899 book, Hooligan Nights, claimed that the word came from Patrick Hoolihan (or Hooligan), an Irish bouncer and thief who lived in the London borough of Southwark. Another writer, Earnest Weekley, wrote in his 1912 book Romance of Words, “The original hooligans were a spirited Irish family of that name whose proceedings enlivened the drab monotony of life in Southwark about fourteen years ago”. There have also been references made to a 19th century rural Irish family with the surname Houlihan who were known for their wild lifestyle. Another theory is that the term came from a street gang in Islington named Hooley. Yet another theory is that the term is based on an Irish word, houlie, which means a wild, spirited party.

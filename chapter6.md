@@ -27,7 +27,7 @@
 
 ![](images/figure52.png)
 
-– image extracted from [Google Books search results](http://is.gd/6hMzX)
+– image extracted from [Google Books search results](https://www.google.com/search?tbo=p&tbm=bks&q=money+is+much+too+serious+a+matter+to+be+left+to+the+central+bankers)
 
 仅仅是因为 “too…to” 的结构前面多了一个 “much” 译者就给翻译错了，语法功底太差。而事实上，译者翻译完了一本书（为了翻译，必须 “研读” —— 比 “精读”、“通读”、“泛读” 都要仔细），可是竟然完全没看懂书的内容。所以，根本就没看出这句话和整本书的内容之间的矛盾 …… 这不是没文化是什么？
 

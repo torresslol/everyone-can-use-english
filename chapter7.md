@@ -273,7 +273,7 @@ Google Books 做的非常好，访问地址是http://books.google.com/。很多�
 
 ### 4. 干脆自定义一个专门的搜索引擎
 
-Google 的自定义搜索引擎（[Google CSE](http://www.google.com/cse/)）功能非常强大。我专门做了一个搜索电子书的 CSE，在这个页面上可以找到：http://is.gd/6nUgW
+Google 的自定义搜索引擎（[Google CSE](https://www.google.com/cse/)）功能非常强大。我专门做了一个搜索电子书的 CSE，在这个页面上可以找到：https://cse.google.com/cse?cx=017195234153172777936:b1hykrzesai
 
 ### 5. 到 WikiPedia 上搜索一下作者和书名
 

@@ -36,7 +36,7 @@
  
 查查词典就知道了，“condition” 这个单词作为名词还有另外一个含义，字典里说的是 “（口语）病”。在查查同义词词典就知道了，“disease” 是用来表达 “疾病” 最常用的词；而 “condition” 之所以经常在口语里使用，是因为 “condition” 通常指那些平日里常得也因此常常被提及的并不太严重的疾病。“She had a condition this morning. ” 相当于在说 “她今早上有点难受。” 所以，“every disease and condition” 相当于说 “不管大病小病”。 
  
-还有个特别经典的例子是在中文互联网上能搜索出几千个[搜索结果](http://is.gd/6eL95)的译文：“烙牛肉饼并不损害你的尊严”。这句话的原文是：“Flipping burgers is not beneath your dignity. Your grandparents had a different word for burger flipping; they called it opportunity.” 我很不理解这句话的译者以及转载这篇文章的几千个人，难道他们看不出这句话这样理解狗屁不通么？事实上，很多人真的如此，他们只顾输入不顾处理，甚至并不知道自己全然没有处理 —— 他们阅读（甚至读不全）却不去尝试着理解，所以就没理解，于是甚至不知道自己并没有理解。 
+还有个特别经典的例子是在中文互联网上能搜索出几千个[搜索结果](https://www.google.com/search?q=%E7%83%99%E7%89%9B%E8%82%89%E9%A5%BC%E5%B9%B6%E4%B8%8D%E6%8D%9F%E5%AE%B3%E4%BD%A0%E7%9A%84%E5%B0%8A%E4%B8%A5&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:zh-CN:official&client=firefox-a)的译文：“烙牛肉饼并不损害你的尊严”。这句话的原文是：“Flipping burgers is not beneath your dignity. Your grandparents had a different word for burger flipping; they called it opportunity.” 我很不理解这句话的译者以及转载这篇文章的几千个人，难道他们看不出这句话这样理解狗屁不通么？事实上，很多人真的如此，他们只顾输入不顾处理，甚至并不知道自己全然没有处理 —— 他们阅读（甚至读不全）却不去尝试着理解，所以就没理解，于是甚至不知道自己并没有理解。
  
 查查词典就知道了，“[flip burgers](http://idioms.thefreedictionary.com/flip+burgers)” 是个短语，意思是 “to do work that does not pay well, esp. at a cheap restaurant. Instead of playing baseball, the boys might be flipping burgers and earning a little cash.”。于是，那句话应该这样理解（或翻译）：“所做的工作薪水低一点并不有损你的尊严。你的祖父母对这样的工作可有不同的定义；他们称它为机遇。” 
  
@@ -76,7 +76,7 @@
  
 《金山词霸》应该是国产软件中使用率最高的软件之一，能排在《金山词霸》之前的恐怕只有腾讯的 QQ 和少数几个诸如迅雷之类下载工具而已了。IM 工具除了 QQ 之外还有很多选择比如 MSN、GTALK，下载工具除了迅雷之外还有快车、电雷等等，但是英汉词典软件里，十年来几乎一直都是《金山词霸》独占鳌头。 
  
-这个帮助了无数人的软件实际上烂得一塌糊涂。十年来不停地推出新版本，除了[错误越来越多]( http://is.gd/6eM6S)之外，新功能乏善可陈。除了文本错误之外，不足的地方还有很多，比如： 
+这个帮助了无数人的软件实际上烂得一塌糊涂。十年来不停地推出新版本，除了[错误越来越多](https://www.google.com/search?hl=en&q=%E9%87%91%E5%B1%B1%E8%AF%8D%E9%9C%B8+%E9%94%99%E8%AF%AF&aq=f&oq=&aqi=)之外，新功能乏善可陈。除了文本错误之外，不足的地方还有很多，比如：
  
 * 单词朗读大多不是真人发音，而是微软的机器引擎，含混不清，真正的 “鬼话”。而少数单词确实是真人发音，但也不知道哪里找来的人朗读的，既不标准也不悦耳 —— 所以完全没用。 
 * 音标标注有 AHD、D.J.、K.K.三种，但错误百出，所以根本不能看。 

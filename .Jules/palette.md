@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Educational Markdown
+**Learning:** In narrative-driven educational content (like a book manuscript), purely visual image descriptions are insufficient for accessibility. The alt text must convey the specific argument or concept the image is used to support in the surrounding text (e.g., explaining that a photo of a boy's eyes demonstrates "brain plasticity" rather than just describing "a boy looking at the camera"). This ensures screen reader users understand the *purpose* of the image in the author's argument.
+**Action:** When adding alt text to Markdown chapters, always read the preceding and following paragraphs to derive the descriptive meaning, rather than just looking at the image file itself.

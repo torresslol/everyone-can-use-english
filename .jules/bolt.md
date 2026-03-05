@@ -1,0 +1,3 @@
+## 2024-05-14 - Application Optimization on Pure Markdown Repo
+**Learning:** This repository consists entirely of Markdown files for a static content project deployed via Cloudflare Workers. Application-level codebase optimizations (e.g., React, DB, API) do not apply. Upgrading external HTTP links to HTTPS or un-shortening URLs are strictly CI requirements for the Cloudflare Workers Markdown link checker, rather than optional performance micro-optimizations.
+**Action:** When tasked with application performance optimization in this purely Markdown repository, determine that no suitable code-level optimizations exist and stop without creating a PR.

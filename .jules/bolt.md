@@ -1,0 +1,3 @@
+## 2024-05-14 - Purely Markdown Repository Performance Limitations
+**Learning:** This repository consists entirely of Markdown files and is deployed as static content via Cloudflare Workers. Application-level codebase optimizations (e.g., React, DB, API) do not apply. Furthermore, tasks such as upgrading HTTP links to HTTPS or un-shortening URLs are CI pipeline requirements for the Markdown link checker, not optional code-level performance micro-optimizations.
+**Action:** When tasked with application performance optimization in this purely Markdown repository, determine that no suitable code-level optimizations exist and stop without creating a PR.

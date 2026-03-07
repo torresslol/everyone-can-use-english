@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text in Markdown Narratives
+**Learning:** In narrative-heavy content like books, purely visual descriptions for image alt text are insufficient. The alt text must reflect the context and support the surrounding argument. For example, describing a boy with bright eyes is less effective than explaining the context of brain plasticity and pupil size control that the image is meant to illustrate.
+**Action:** When adding alt text to images in narrative Markdown files, always derive the description from the surrounding context and the author's argument rather than just the visual elements of the image.

@@ -1,0 +1,3 @@
+## 2024-05-24 - Pure Markdown Repository Limitation
+**Learning:** This repository consists entirely of Markdown files for a book manuscript ("Everyone Can Use English") and is deployed as static content via Cloudflare Workers. There is no application-level code (e.g., React, DB, API) to optimize. Attempts to find performance bottlenecks in frontend or backend code are inapplicable. The Cloudflare Workers build is fragile and fails if certain structural changes are made.
+**Action:** When tasked with application performance optimization in this purely Markdown repository, determine that no suitable code-level optimizations exist and stop without creating a PR.

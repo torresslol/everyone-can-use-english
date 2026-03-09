@@ -1,0 +1,3 @@
+## 2024-05-14 - Application Optimization in Markdown Projects
+**Learning:** This repository consists entirely of Markdown files for a static content project. Therefore, application-level codebase optimizations (e.g., React, DB, API) do not apply. There are no actual performance bottlenecks that can be addressed via code-level optimizations.
+**Action:** When tasked with application performance optimization in a purely Markdown repository like this, determine that no suitable code-level optimizations exist and stop without creating a PR. Do not attempt to add code optimizations where none are applicable.

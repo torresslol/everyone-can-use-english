@@ -1,0 +1,3 @@
+## 2024-05-18 - Context-Aware Alt Text in Markdown Books
+**Learning:** In narrative-heavy environments like a Markdown book, simply describing the visual contents of an image in the alt text often fails to capture the author's intent. Screen reader users need the context of *why* the image is there to understand its significance to the surrounding argument (e.g., explaining that a boy has bright eyes to demonstrate brain plasticity, rather than just saying "a boy with bright eyes").
+**Action:** Always derive alt text from the surrounding narrative text and arguments when adding accessibility features to educational or narrative Markdown content.

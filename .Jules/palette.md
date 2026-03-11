@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Educational Manuscripts
+**Learning:** For educational or argumentative texts like this book, screen reader users miss crucial context if alt text is purely visual. The alt text must be derived from the surrounding narrative arguments (e.g., highlighting that an image of a girl's bound arm actually demonstrates brain plasticity and CI therapy, not just a girl with a bound arm).
+**Action:** When adding alt text to manuscript illustrations, read the surrounding paragraphs and ensure the alt text conveys the *rhetorical purpose* of the image, rather than a literal visual description.

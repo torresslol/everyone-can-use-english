@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Rhetorical Images
+**Learning:** In narrative-driven Markdown content, images often serve rhetorical purposes (e.g., illustrating brain plasticity or localizationism arguments) rather than just visual decoration. Alt text must be context-aware and derived from the surrounding narrative arguments rather than being purely visual descriptions. This makes the text much more accessible and meaningful to screen reader users who need the context of *why* the image is there, not just *what* it looks like.
+**Action:** When adding or updating alt text in chapters, analyze the surrounding text to understand the rhetorical purpose of the image. Write alt text that summarizes this purpose instead of merely describing visual characteristics.

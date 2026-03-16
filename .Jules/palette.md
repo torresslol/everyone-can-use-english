@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Rhetorical Images
+**Learning:** In narrative or rhetorical context, purely visual descriptions for images (e.g. "a cat with a stitched eye") are insufficient. Instead, deriving the alt text from the surrounding text to explain the rhetorical purpose of the image (e.g. "David Hubel and Torsten Wiesel's diagram of early animal vision deprivation experiment") makes the manuscript much more accessible to screen readers by preserving the narrative flow.
+**Action:** When adding alt text to a narrative book manuscript, ensure the text reflects the argument or meaning the image is supporting in the context, rather than just visually describing it.

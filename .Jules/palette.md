@@ -1,0 +1,3 @@
+## 2024-05-14 - Context-aware Image Alt Text
+**Learning:** In narrative-heavy content like this markdown book, simply describing an image visually (e.g., "A boy in water") fails accessibility guidelines. The alt text must convey the *rhetorical purpose* of the image derived from the surrounding narrative arguments (e.g., "A Sea Gypsy boy with bright eyes, proving the brain and body's plasticity through training").
+**Action:** Always extract surrounding paragraph context when determining alt text for images in argument-driven or educational content, and write the alt text in the matching primary language of the text.

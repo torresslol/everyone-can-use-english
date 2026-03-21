@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Educational Markdown
+**Learning:** For Markdown documents (especially educational ones like Everyone Can Use English), images often serve specific rhetorical purposes rather than just being visual decorations. Standard descriptive alt text is insufficient. The alt text needs to be derived directly from the surrounding narrative context to provide a meaningful accessible experience.
+**Action:** When adding alt text to images in Markdown texts, read the surrounding paragraphs carefully and formulate an alt text that conveys *why* the image is there, matching the author's rhetorical point.

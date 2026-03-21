@@ -25,7 +25,7 @@
 
 可原文是这样的（这是 Friedman 引用 Georges Clemenceau 的话）：
 
-![](images/figure52.png)
+![Friedman引用Georges Clemenceau的英文原文片段，展示带有“much too...to”的结构，用以说明由于译者忽视该语法细节而导致将整句话的意思完全译错](images/figure52.png)
 
 – image extracted from [Google Books search results](http://is.gd/6hMzX)
 

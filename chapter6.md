@@ -59,7 +59,7 @@
 
 > – “My Childhood’s Home” Growing Up With Young Abe Lincoln, by Richard Kigel
 
-![](images/figure54.png)
+![Kirkham’s Grammar (1826) demonstrating Lincoln’s dedication to learning](images/figure54.png)
 
 – image from [American Treasures of the Library of Congress](http://www.loc.gov/exhibits/treasures/trr132.html)
 

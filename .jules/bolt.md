@@ -1,0 +1,3 @@
+## 2026-03-27 - Application Performance Optimization Constraint
+**Learning:** This repository contains the manuscript for the book 'Everyone Can Use English' (人人都能用英语) organized purely into Markdown files. As a result, typical application-level codebase optimizations (e.g., React, DB, API) do not apply. Un-shortening URLs (like `is.gd`) and upgrading to HTTPS is strictly required to satisfy the Cloudflare Workers CI Markdown link checker, rather than being an optional micro-optimization.
+**Action:** When tasked with application performance optimization in this purely Markdown repository, determine that no suitable code-level optimizations exist and stop without creating a PR.

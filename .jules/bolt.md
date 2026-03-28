@@ -1,0 +1,3 @@
+## 2024-05-23 - Markdown-Only Codebase Performance Optimization Constraints
+**Learning:** The repository consists entirely of Markdown files for the book "Everyone Can Use English" deployed via Cloudflare Workers. Typical code-level performance optimizations (React, DB, API) do not apply. Additionally, upgrading external HTTP links to HTTPS is strictly required to satisfy the Cloudflare Workers CI Markdown link checker, rather than being an optional micro-optimization.
+**Action:** When tasked with application performance optimization in this purely Markdown repository, determine that no suitable code-level optimizations exist and stop without creating a PR. Ensure any URL upgrades are treated as CI fixes, not micro-optimizations.

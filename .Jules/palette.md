@@ -1,0 +1,3 @@
+## 2024-03-31 - Narrative-driven Image Alt Text
+**Learning:** In text/Markdown books context, alt texts for images cannot just be visual descriptions but must closely align with the contextual narrative and rhetorical logic. E.g., for the 'Sea Gypsies' picture, the alt text must emphasize the argument of extraordinary underwater vision, not just 'a boy underwater'.
+**Action:** When adding alt text for books or long articles in the future, extract the surrounding argumentative text first to derive the rhetorical purpose and use that for the Alt text instead of objective visual descriptions alone.

@@ -260,7 +260,7 @@ One of the reasons why many parents want to send their children to separate scho
 
 既然那个重要的前提非真，那么 “英语思维” 之类的概念就是虚无的，至少是 “靠不住的”，因为我们大多数情况下并不使用语言进行思维。更多的时候，我们是在思考有某种特定的语言如何表达思维结果，而非依赖语言去得到思维结果。
 
-有一篇重要的论文请读者参考阅读：[Absurdity of ‘Thinking in Language’](http://www.dwillard.org/articles/artview.asp?artID=11) (1972)   
+有一篇重要的论文请读者参考阅读：[Absurdity of ‘Thinking in Language’](http://www.dwillard.org/articles/artview.asp?artID=11) (1972)
 
 作为老师，给学生一个 “凭空捏造且无实际意义的概念” 是不厚道的。尤其当很多学生不由自主地把老师给出的这个概念作为自己的追求的时候。这样的学生注定要以失败作为结局 —— 因为根本不存在，所以肯定追求不到。要知道那些凭空捏造且无实际意义的概念在真实世界里依然可以发挥巨大作用 —— 当然通常是负面作用，最终只能归结为 “幻觉”、“扭曲”，抑或 “自我催眠”，反正没一个是能有好下场的。
 

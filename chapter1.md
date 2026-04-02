@@ -233,7 +233,7 @@ Taub 教授 CI 疗法的成功首先证明区域论是错误的（至少不是�
 
 [^4]: “中风”其实是中国传统医疗概念，在现代医学概念中，这种病症叫做“Stroke”：血管因某种原因（比如存在血栓）突然阻塞而无法向大脑供血，于是就会引发部分脑细胞死亡，进而脑损伤会导致肢体的某些部分失去知觉。
 
-[^5]:  "[We have discovered nothing.](http://news.bbc.co.uk/2/hi/science/nature/1577421.stm)" 
+[^5]:  "[We have discovered nothing.](http://news.bbc.co.uk/2/hi/science/nature/1577421.stm)"
 
 [^6]: Visual training improves underwater vision in children , Vision Research, Volume 46, Issue 20, October 2006, Pages 3443-3450
 

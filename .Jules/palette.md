@@ -1,0 +1,3 @@
+## 2024-05-24 - Context-Aware Alt Text for Markdown Images
+**Learning:** Adding alt text to Markdown images purely as visual descriptions (e.g., "diagram", "screenshot") reduces accessibility in narratives where the image serves a rhetorical purpose. The alt text must be context-aware and derived directly from the surrounding narrative arguments or concepts that the image is meant to illustrate.
+**Action:** When adding alt text to images in Markdown documents, especially narrative ones, read the surrounding text to understand the concept being illustrated and use that concept as the alt text to provide meaningful context to screen reader users.

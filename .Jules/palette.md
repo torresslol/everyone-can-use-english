@@ -1,0 +1,3 @@
+## 2024-05-15 - Added Alt text derived from document narrative context
+**Learning:** For Markdown content, particularly narratives or arguments relying on images, screen readers are hindered by empty alt text `![]()`. The best accessible alt text is derived exactly from the surrounding narrative arguments that describe the rhetorical purpose of the images.
+**Action:** Added context-derived alt text from the surrounding explicit narrative context to multiple images in chapter1.md and chapter3.md, utilizing strict byte-string literal substitution to avoid character encoding issues and hallucinated content.

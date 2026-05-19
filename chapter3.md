@@ -111,7 +111,7 @@ Kuhl 教授的研究中更为有趣的是她进一步调查了多语环境中成
 
 另外，如果熟悉计算机操作的话（其实也必须熟悉才对），还可以找一些音频编辑软件作为辅助工具，如 Cool Edit，Audio Edit Deluxe，Audacity 等等。这些软件对用户来说相当于 “音频视觉化”，可以通过音频图谱清楚地看到语音之间的空隙、音量的大小强弱等等。并且，用它们很容易做到把某一段音频（比较精确地定义起点和终点）反复播放无数遍。
 
-![](images/figure07.png)
+![AudioEdit Deluxe v4.10](images/figure07.png)
 
 AudioEdit Deluxe v4.10 截图
 

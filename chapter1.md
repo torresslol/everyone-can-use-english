@@ -28,7 +28,7 @@
 
 知道这一个字的答案，很可能就是一些人重生的起点。
 
-[^1]: 读者有兴趣可以到 collegeboard.com 上查看一下官方的[SAT Percentile Ranks](http://www.collegeboard.com/prod_downloads/highered/ra/sat/composite_CR_M_W_percentile_ranks.pdf)
+[^1]: 读者有兴趣可以到 collegeboard.com 上查看一下官方的[SAT Percentile Ranks](https://www.collegeboard.com/prod_downloads/highered/ra/sat/composite_CR_M_W_percentile_ranks.pdf)
 
 ## 2. 可为什么大多数人就是学不好？
 
@@ -130,11 +130,11 @@ GRE 考试中有一作文题目 ：
 
 > 他们将出生几个月的猫或者猴的一只眼睛用手术缝合；经过一段时间之后再重新打开。研究表明，即便后来重新打开缝合的眼睑，这些动物的眼睛也不能再获得视觉功能。在这段时间内关闭一只眼睛对于动物脑中视觉区域的结构有明显的影响。但是，对于成年猫进行同样时间或更长时间的视觉剥夺既不会影响它们的视觉能力，也不会影响它们的大脑结构。只有年幼的动物在它们发展的“关键期”（Critical Period）才会因此剥夺视觉敏感。
 
-> ![](images/figure01.png)
+> ![实验的记录片](images/figure01.png)
 
 > youtube上有这个实验的记录片：
-> * http://www.youtube.com/watch?v=IOHayh06LJ4
-> * http://www.youtube.com/watch?v=KE952yueVLA
+> * https://www.youtube.com/watch?v=IOHayh06LJ4
+> * https://www.youtube.com/watch?v=KE952yueVLA
 
 这项研究及其成果最终使这两个人于 1981 年获得了诺贝尔医学奖，“因为这项研究对理解视觉系统如何处理信息有着巨大贡献”。但是，人们好像对这项研究中提出的 “关键期” 概念更感兴趣。科学家们很快就发现大脑的其它部分也都需要获得刺激才能够发展，并且好像它们都符合关键期理论。而根据关键期理论，只有在关键期内，大脑才是 “可塑的”（Plastic），这时大脑所接受到的外部刺激甚至会改变大脑的结构；而关键期过后，大脑就不再是可塑的了。很快，“关键期” 这个概念延伸到了各个科学领域。
 
@@ -145,11 +145,11 @@ GRE 考试中有一作文题目 ：
 
 其实 David Hubel 和 Torsten Wiesel 的真正贡献在于他们证明了大脑是 “可塑” 的，而非一成不变的。而他们两人的局限恰恰在于人们津津乐道的 “关键期”。当时，他们俩还是 “区域论” 的坚定支持者──而区域论，很久之后才被学术界推翻。
 
-![](images/figure02.png)
+![区域论](images/figure02.png)
 
 区域论（Localizationism）认为大脑就好像是一台复杂的机器，而这个机器的每个部件都有其特定的功能；进而，每个特定的功能都是受硬件限制的（Hardwired）。而区域论的言外之意则是，一旦大脑的某个区域损坏，那么那个区域所管辖的功能就无法恢复了。而临床观察也好像确实能够印证这个结论：比如，中风[^4]患者的瘫痪肢体看起来是无论如何都无法恢复的。
 
-![](images/figure03.png)
+![海洋吉普赛人](images/figure03.png)
 
 很漂亮的一个男孩，是不是？注意到了么，他的眼睛？这不是特效，这男孩的眼睛就那么亮。这个男孩是海洋吉普赛人（Sea Gypsies），他们的眼睛都这么亮。
 
@@ -183,9 +183,9 @@ Anna Gislen 让一群欧洲孩子在八个月内就学会了像海洋吉普赛�
 3. 甚至它还会重新组织自己（Reorganizing），通过恰当的训练，它能用另外一个区域习得已被毁坏区域的能力……
 
 只不过，这个证明过程格外地不顺利。
-请读者猜猜下图中，这个正在[美国UAB康复中心]( http://www.uabhealth.org)治疗的小女孩受伤的是左臂还是右臂？
+请读者猜猜下图中，这个正在[美国UAB康复中心](https://www.uabhealth.org)治疗的小女孩受伤的是左臂还是右臂？
 
-![](images/figure05.png)
+![治疗的小女孩](images/figure05.png)
 
 其实她的左臂没有受伤，而之所以把左臂固定起来就是因为那是一条没有受伤的手臂，而右臂才是受伤、需要通过训练恢复的 …… 咦？这是怎么回事儿？可是从生理上来看，大脑受损的部分是没办法恢复的，她又怎么能通过训练来让已经受伤的右臂恢复正常呢？ 
 

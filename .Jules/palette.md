@@ -1,0 +1,3 @@
+## YYYY-MM-DD - Context-aware Image Alt Text
+**Learning:** In narrative-heavy Markdown documents (like this English-learning book), image alt text should be drawn directly from the surrounding context or rhetorical argument rather than purely visual descriptions. Relying strictly on the text adjacent to the image ensures accuracy and alignment with the narrative without spoiling its purpose.
+**Action:** When adding alt text to contextual images in Markdown text, extract and use the adjacent narrative description (derived directly from the text) to form the alt text rather than describing visual elements not fully supported by context.

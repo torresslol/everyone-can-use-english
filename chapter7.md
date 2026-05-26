@@ -215,15 +215,15 @@ M1 和 M2 之间的关系，大抵上分为两种：
 
 另外一个方法是：先按一下 “Windows 键”，然后输入 “打开或者关闭 Windows 功能”；事实上，只要输入 “打开或” 这三个字的时候，已经可以在 Windows 的 “开始菜单” 中看到 “打开或关闭 Windows 功能” 的链接了：
 
-![](images/figure57.png)
+![打开或者关闭 Windows 功能](images/figure57.png)
 
 默认 Indexing Service 之前是没有打勾的，现在打上勾，然后按确定按钮。
 
-![](images/figure58.png)
+![打上勾](images/figure58.png)
 
 而后要配置 “索引选项”。在控制面板中找到 “索引选项” 并点击，会跳出 “索引选项” 对话框：
 
-![](images/figure59.png)
+![索引选项](images/figure59.png)
 
 点对话框中的 “高级” 按钮，开始配置高级选项：1) 把 “将发音符号不同的相似单词当作不同的单词 (T)” 之前的勾去掉。因为我们用来索引的是英文电子书，所以并不希望计算机把 “resume” 和 “resumè” 当作两个词处理。2) 而后点击 “选择新位置” 按钮，更改 Windows 索引服务所生成的数据库存放位置。下面的图片是在虚拟机里截取的，所以显示的是 “C:\eLibrary Index Files”。事实上，我是用一块儿单独的硬盘（或者起码一个单独的分区）来存放电子书的。那块儿硬盘下只有三个目录：“x:\eLibrary”（用来存放 pdf、html、doc、rtf、txt 之类的电子书）、“x:\eLibrary Index Files”（用来存放索引文件），和 “Audios and Videos”（用来存放有声书和视频讲座）。
 

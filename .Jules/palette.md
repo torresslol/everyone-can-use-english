@@ -1,0 +1,3 @@
+## 2024-05-31 - Context-Aware Alt Text for Narrative Images
+**Learning:** Markdown image alt text should be derived from the surrounding narrative arguments or rhetorical purpose rather than purely visual descriptions. However, we must avoid repeating adjacent body text verbatim (which creates negative redundancy for screen readers) and avoid preemptively revealing information that spoils interactive 'guessing games' or questions posed to the reader.
+**Action:** Extract concise conceptual keywords (like specific subjects, e.g., group names or theory names) from the un-truncated text context for alt text. For images involving guessing games, omit spoiler information entirely.

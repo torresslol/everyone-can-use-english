@@ -1,0 +1,3 @@
+## YYYY-MM-DD - Context-Aware Alt Text for Markdown Images
+**Learning:** When adding alt text to images embedded in narrative chapters, copying verbatim text from adjacent sentences creates redundant repetition for screen reader users. Furthermore, avoiding purely visual descriptions (like "screenshot" or "diagram") and instead using concise conceptual details drawn strictly from the surrounding rhetorical arguments significantly improves the accessibility flow.
+**Action:** Always derive image alt text from the narrative purpose explicit in the preceding and following text context, keeping it concise and distinct from the visible body text to optimize the screen reader experience.

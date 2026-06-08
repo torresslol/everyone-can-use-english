@@ -1,0 +1,3 @@
+## YYYY-MM-DD - Contextual Image Alt Text for Accessibility
+**Learning:** When adding alt text to images embedded in narrative chapters (like in a Markdown book), it's crucial to derive factual descriptions strictly from the surrounding text context, avoiding spoilers for reader prompts while ensuring screen reader users get accurate semantic meaning of the illustrations. In this project, visual hallucination of images without explicit text grounding leads to rejection.
+**Action:** Always extract and review un-truncated contextual text around images before assigning alt text, ensure it doesn't spoil adjacent questions, and use exact byte-string replacement for multi-byte encodings.

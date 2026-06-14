@@ -1,0 +1,3 @@
+## 2026-06-14 - Add Contextual Alt Text to Markdown Images
+**Learning:** Images in narrative or instructional markdown often lack visual descriptions (alt text) but instead rely on their context (like the preceding paragraphs describing an experiment). Adding conceptual alt text based strictly on explicit surrounding text improves accessibility for screen reader users without hallucinating unverified visual details.
+**Action:** When images cannot be directly viewed, extract conceptual details explicitly mentioned in the adjacent text to serve as the alt attribute, ensuring screen reader users receive equivalent narrative context.

@@ -1,0 +1,3 @@
+## 2026-06-25 - Informative alt text in Markdown manuscript
+**Learning:** When adding alt text to images in a book manuscript that are part of pedagogical questions, it's crucial to accurately describe the image visually without prematurely revealing answers to questions posed in the text. For example, describing an uninjured left arm in a brace, rather than a right arm, preserves the core visual puzzle of the accompanying paragraph.
+**Action:** Always verify the surrounding contextual narrative when adding alt text to pedagogical or quiz-like images to ensure the text provides accurate accessibility without spoiling subsequent learning material.

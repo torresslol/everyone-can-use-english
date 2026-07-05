@@ -1,0 +1,3 @@
+## 2026-07-05 - Pedagogical Image Alt Text
+**Learning:** This app extensively uses images to pose interactive, pedagogical questions to users (e.g., asking users to identify which arm is injured in a photo). When adding alt text to these images, simply repeating the factual answer from the subsequent text ruins the learning experience. The alt text must accurately describe the visual state (e.g., "left arm is immobilized") without prematurely spoiling the pedagogical intent.
+**Action:** When auditing images for accessibility in pedagogical contexts, carefully review the surrounding text to understand the interactive intent. Craft alt text that describes the visual state accurately without resolving the pedagogical question.
